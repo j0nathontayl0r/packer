@@ -718,8 +718,8 @@ github.com/hashicorp/packer-plugin-cloudstack v1.0.0 h1:TB2XbgaFZ88fJIoldNbCvKjG
 github.com/hashicorp/packer-plugin-cloudstack v1.0.0/go.mod h1:vwUxJRlnxq1BnmJln1+/bKGjSMVz/dAorog/1BxAl50=
 github.com/hashicorp/packer-plugin-converge v1.0.1 h1:LNjhWQCaPNHSgeKGj/vXwqlEuqz3lA4P7gD7YQ1XsNA=
 github.com/hashicorp/packer-plugin-converge v1.0.1/go.mod h1:iXfr0QvDEOmSIK2ry53KCfztK3QaeQuTo8eHqzWMlVI=
-github.com/hashicorp/packer-plugin-digitalocean v1.0.4 h1:K47CSjNbxqPiwp4gls3+kQB1AIGpZlw73/gsf4u+lsA=
-github.com/hashicorp/packer-plugin-digitalocean v1.0.4/go.mod h1:1WM9f6tQhwiwYauk+lfxHzU8sfeqWFE/hZkjtbdfXPM=
+github.com/hashicorp/packer-plugin-digitalocean v1.0.5 h1:LOAjvQ9Z2RKT99smvUY8o6PBGQgsaPEQrgX3TEeZ05U=
+github.com/hashicorp/packer-plugin-digitalocean v1.0.5/go.mod h1:9zd51KD7opkZlGDr5DgMvvpVhLnCT2BLapHsb6ig66k=
 github.com/hashicorp/packer-plugin-docker v1.0.3 h1:Dx12P9f7oaIkSd98wdIa2X60h2bvMNgy0/KFtlZ/VNA=
 github.com/hashicorp/packer-plugin-docker v1.0.3/go.mod h1:PgImlwHM7R/CCJysPUN5zQ8x+2OQbaQbBezZJMOXBKw=
 github.com/hashicorp/packer-plugin-googlecompute v1.0.12 h1:qsQRe8xu5WmHujTlDUuFEh1aKH7hoeQGWG5rzz3p68Y=
