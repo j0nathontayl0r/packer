@@ -70,7 +70,7 @@ require (
 	github.com/hashicorp/packer-plugin-digitalocean v1.0.5
 	github.com/hashicorp/packer-plugin-docker v1.0.3
 	github.com/hashicorp/packer-plugin-googlecompute v1.0.12
-	github.com/hashicorp/packer-plugin-hcloud v1.0.2
+	github.com/hashicorp/packer-plugin-hcloud v1.0.3
 	github.com/hashicorp/packer-plugin-hyperone v1.0.0
 	github.com/hashicorp/packer-plugin-hyperv v1.0.2
 	github.com/hashicorp/packer-plugin-inspec v1.0.0
