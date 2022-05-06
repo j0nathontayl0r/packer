@@ -783,6 +783,8 @@ github.com/hashicorp/packer-plugin-vmware v1.0.5 h1:ORnhhad1zu1Xr0yBinl0ydwb/9wi
 github.com/hashicorp/packer-plugin-vmware v1.0.5/go.mod h1:uPs9m+Z/5WQCEhV7NAeQBJmeiC2D9SSo4X3UoHsWbC8=
 github.com/hashicorp/packer-plugin-vsphere v1.0.3 h1:3vUlEJNtRpnv3TiyfQhBxGauDfI10+lFG6ddKGZ4ALg=
 github.com/hashicorp/packer-plugin-vsphere v1.0.3/go.mod h1:P35z2Gnq4K0sSeuW8QV+5EzEPsuX4zl2+HBtuRmh6Kc=
+github.com/hashicorp/packer-plugin-vsphere v1.0.4 h1:F/tRtToVIkVanj4K5IYEwCx+3UlMhfc6JAfxOK2iXow=
+github.com/hashicorp/packer-plugin-vsphere v1.0.4/go.mod h1:rojrHkVteNdAhMqVmRbpUk1smCoQZhg1ktz/enz/m1A=
 github.com/hashicorp/packer-plugin-yandex v1.1.0 h1:hRFsdW8hXPTpcO9LPYtVnDiSwBJD80Y0qrxl5VyjTkY=
 github.com/hashicorp/packer-plugin-yandex v1.1.0/go.mod h1:Svnx1/xh3m+ML2Kjl6XEbkie53TMXUgC6eGEag5bxYc=
 github.com/hashicorp/serf v0.8.2/go.mod h1:6hOLApaqBFA1NXqRQAsxw9QxuDEvNxSQRwA/JwenrHc=
